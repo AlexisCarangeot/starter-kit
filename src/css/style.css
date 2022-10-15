@@ -37,6 +37,9 @@ h6 {
 ul {
   list-style: none; }
 
+button {
+  cursor: pointer; }
+
 button,
 input,
 select {
@@ -67,4 +70,5 @@ th {
   padding: 0; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  color: unset; }
