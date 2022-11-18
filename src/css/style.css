@@ -1,4 +1,5 @@
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400;500;600;700;800&display=swap");
 html,
 body,
 p,
@@ -72,3 +73,6 @@ th {
 a {
   text-decoration: none;
   color: unset; }
+
+* {
+  font-family: 'Fira Sans', sans-serif; }
